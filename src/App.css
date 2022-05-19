@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.form-group{
+  margin-top: 20px;
+}
+form .btn{
+  margin-top: 20px;
+}
+.list{
+  background-color: rgb(191, 191, 245);
+  display: flex;
+  justify-content: center;
+  border: 1px solid grey;
+  margin: 10px;
+}
+.list li{
+  margin-right: 15px;
+}
